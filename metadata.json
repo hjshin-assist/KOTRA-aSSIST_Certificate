@@ -1,0 +1,8 @@
+{
+  "name": "KOTRA-aSSIST 수료증 발급 시스템",
+  "description": "KOTRA-aSSIST 인도네시아 시장 진출 과정 수료생들을 위한 맞춤형 수료증 다운로드 포털입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

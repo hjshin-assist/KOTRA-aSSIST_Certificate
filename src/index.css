@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Noto Sans KR", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-navy-brand: #003399;
+  --color-gold-start: #C5A059;
+  --color-gold-end: #E2C285;
+}
+
+@utility gold-gradient {
+  background: linear-gradient(135deg, var(--color-gold-start) 0%, var(--color-gold-end) 50%, var(--color-gold-start) 100%);
+}
+
+@utility geometric-grid {
+  background-image: radial-gradient(#CBD5E1 1px, transparent 1px);
+  background-size: 24px 24px;
+}
