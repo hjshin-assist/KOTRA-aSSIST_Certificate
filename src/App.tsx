@@ -62,6 +62,7 @@ export default function App() {
       'export-first-2026': '260520',
       'usa-2026': '260610',
       'overseas-marketing-2026': '260611',
+      'vietnam-2026': '260729',
     };
     const correctPassword = passwords[pendingCourse.id] || '999999';
     if (coursePassword === correctPassword) {

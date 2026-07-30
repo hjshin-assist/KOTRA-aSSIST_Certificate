@@ -33,5 +33,13 @@ export const courses: Course[] = [
     date: "2026.06.11 - 06.12",
     expiryDate: "2026-09-15",
   },
+  {
+    id: "vietnam-2026",
+    title: "베트남 시장 진출 과정",
+    subtitle: "KOTRA-aSSIST",
+    description: "베트남 시장의 특성에 대해 알아보고, 성공적인 베트남 시장 진출을 위한 실무 역량 강화",
+    date: "2026.07.29",
+    expiryDate: "2026-10-31",
+  },
   // 앞으로 여기에 신규 과정을 추가하면 됩니다.
 ];

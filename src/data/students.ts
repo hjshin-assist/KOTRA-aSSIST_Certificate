@@ -88,5 +88,20 @@ export const students: Student[] = [
   { id: 93, name: "전지훈", password: "3990", certificateUrl: "/certificates/해외전시 마케팅 수료증 전 지 훈.pdf", courseId: "overseas-marketing-2026" },
   { id: 94, name: "정승영", password: "1731", certificateUrl: "/certificates/해외전시 마케팅 수료증 정 승 영.pdf", courseId: "overseas-marketing-2026" },
   { id: 95, name: "최유라", password: "4777", certificateUrl: "/certificates/해외전시 마케팅 수료증 최 유 라.pdf", courseId: "overseas-marketing-2026" },
-  { id: 96, name: "한지현", password: "2582", certificateUrl: "/certificates/해외전시 마케팅 수료증 한 지 현.pdf", courseId: "overseas-marketing-2026" }
+  { id: 96, name: "한지현", password: "2582", certificateUrl: "/certificates/해외전시 마케팅 수료증 한 지 현.pdf", courseId: "overseas-marketing-2026" },
+
+  // 베트남 시장 진출 과정 수료생 (vietnam-2026)
+  { id: 97, name: "강병재", password: "4962", certificateUrl: "/certificates/KOTRA 베트남 시장 진출 과정 수료증 강 병 재.pdf", courseId: "vietnam-2026" },
+  { id: 98, name: "김선", password: "1339", certificateUrl: "/certificates/KOTRA 베트남 시장 진출 과정 수료증 김 선.pdf", courseId: "vietnam-2026" },
+  { id: 99, name: "김준원", password: "6939", certificateUrl: "/certificates/KOTRA 베트남 시장 진출 과정 수료증 김 준 원.pdf", courseId: "vietnam-2026" },
+  { id: 100, name: "김하린", password: "8620", certificateUrl: "/certificates/KOTRA 베트남 시장 진출 과정 수료증 김 하 린.pdf", courseId: "vietnam-2026" },
+  { id: 101, name: "김호용", password: "1365", certificateUrl: "/certificates/KOTRA 베트남 시장 진출 과정 수료증 김 호 용.pdf", courseId: "vietnam-2026" },
+  { id: 102, name: "소하정", password: "8590", certificateUrl: "/certificates/KOTRA 베트남 시장 진출 과정 수료증 소 하 정.pdf", courseId: "vietnam-2026" },
+  { id: 103, name: "유재영", password: "2459", certificateUrl: "/certificates/KOTRA 베트남 시장 진출 과정 수료증 유 재 영.pdf", courseId: "vietnam-2026" },
+  { id: 104, name: "윤수빈", password: "9512", certificateUrl: "/certificates/KOTRA 베트남 시장 진출 과정 수료증 윤 수 빈.pdf", courseId: "vietnam-2026" },
+  { id: 105, name: "이서령", password: "6447", certificateUrl: "/certificates/KOTRA 베트남 시장 진출 과정 수료증 이 서 령.pdf", courseId: "vietnam-2026" },
+  { id: 106, name: "이홍주", password: "5452", certificateUrl: "/certificates/KOTRA 베트남 시장 진출 과정 수료증 이 홍 주.pdf", courseId: "vietnam-2026" },
+  { id: 107, name: "장영민", password: "4545", certificateUrl: "/certificates/KOTRA 베트남 시장 진출 과정 수료증 장 영 민.pdf", courseId: "vietnam-2026" },
+  { id: 108, name: "한성희", password: "1111", certificateUrl: "/certificates/KOTRA 베트남 시장 진출 과정 수료증 한 성 희.pdf", courseId: "vietnam-2026" },
+  { id: 109, name: "홍준석", password: "8398", certificateUrl: "/certificates/KOTRA 베트남 시장 진출 과정 수료증 홍 준 석.pdf", courseId: "vietnam-2026" }
 ];
